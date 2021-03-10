@@ -116,7 +116,7 @@ function draw() {
   box22.display();
   box23.display();
   box24.display();
-  fill("pink");
+  fill("orange");
   box25.display();
 
 
